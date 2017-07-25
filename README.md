@@ -26,3 +26,15 @@
 其他
 ---
 - [搭建OpenConnect VPN server](https://github.com/iMeiji/shadowsocks_install/wiki/OpenConnect-VPN-server)
+
+
+
+Congratulations, Shadowsocks-python server install completed!
+Your Server IP        :  13.124.177.4 
+Your Server Port      :  1024 
+Your Password         :  java@0504 
+Your Encryption Method:  aes-256-cfb 
+
+Welcome to visit:https://teddysun.com/342.html
+Enjoy it!
+
